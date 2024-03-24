@@ -1,0 +1,20 @@
+{
+  "name": "harmony",
+  "version": "1.0.0",
+  "description": "Run long and resource expensive tasks in REST APIs without any blocking",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielemidulla/harmony.git"
+  },
+  "author": "Gabriele Midulla",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gabrielemidulla/harmony/issues"
+  },
+  "homepage": "https://github.com/gabrielemidulla/harmony#readme"
+}
