@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/gabrielemidulla/harmony/issues"
   },
-  "homepage": "https://github.com/gabrielemidulla/harmony#readme"
+  "homepage": "https://github.com/gabrielemidulla/harmony#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.7",
+    "uuid": "^9.0.1"
+  }
 }
